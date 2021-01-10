@@ -1,2 +1,6 @@
-#Some badass neural network program where I create
-#the nodes, not some bitch from keras.
+#Ok maybe start with libraries, after all
+#I am building on something here to create
+#something entirely new.
+
+import cv2
+
