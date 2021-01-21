@@ -4,3 +4,5 @@
 
 import cv2
 
+image = cv2.imread("test.png", mode='RGB')
+print(image)
